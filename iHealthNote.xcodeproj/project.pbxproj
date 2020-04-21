@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74D06363244EDF0300587B8B /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74D06362244EDF0300587B8B /* MainViewController.swift */; };
 		74DF5C42243C67C600A1A807 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DF5C41243C67C600A1A807 /* AppDelegate.swift */; };
 		74DF5C44243C67C600A1A807 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DF5C43243C67C600A1A807 /* SceneDelegate.swift */; };
 		74DF5C46243C67C600A1A807 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 74DF5C45243C67C600A1A807 /* ViewController.swift */; };
@@ -35,6 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		74D06362244EDF0300587B8B /* MainViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainViewController.swift; sourceTree = "<group>"; };
 		74DF5C3E243C67C600A1A807 /* iHealthNote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iHealthNote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		74DF5C41243C67C600A1A807 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		74DF5C43243C67C600A1A807 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				74DF5C4A243C67CB00A1A807 /* Assets.xcassets */,
 				74DF5C4C243C67CB00A1A807 /* LaunchScreen.storyboard */,
 				74DF5C4F243C67CB00A1A807 /* Info.plist */,
+				74D06362244EDF0300587B8B /* MainViewController.swift */,
 			);
 			path = iHealthNote;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 				74DF5C46243C67C600A1A807 /* ViewController.swift in Sources */,
 				74DF5C42243C67C600A1A807 /* AppDelegate.swift in Sources */,
 				74DF5C44243C67C600A1A807 /* SceneDelegate.swift in Sources */,
+				74D06363244EDF0300587B8B /* MainViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
